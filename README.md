@@ -1,6 +1,7 @@
 **2️⃣ Round 1B: Persona‑Driven Insights**
 
-* **What:** Ranks and summarizes top sections across multiple PDFs using a persona+task prompt.
+* **What:** Ranks and summarizes top sections across multiple PDFs using persona+task.
+* **Approach:** Load persona/job from input/meta.json (fallback to a generic query). Form a query string by concatenating persona + job. Extract text chunks (visual blocks or paragraphs) from each PDF via PyMuPDF. Embed both query and chunks using a Sentence‑Transformer model. Compute cosine similarities, sort descending, and pick the Top K most relevant passages.
 * **Tech:** SentenceTransformers, Faiss, lightweight summarizer.
 * **Quick Start:**
 
