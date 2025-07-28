@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "documents": [
+      "66e9997f56efb_Providence_LEAP_Ideathon_Case_Study_Brief.pdf",
+      "AeroClaim.pdf",
+      "DE PROJECT.pdf",
+      "gra bi she.pdf",
+      "test_adobe_sample.pdf"
+    ],
+    "persona": "Test Researcher",
+    "job": "Summarise key sections",
+    "total_sections_analyzed": 203,
+    "top_k_selected": 15,
+    "processing_time_seconds": 4.25,
+    "embedding_time_seconds": 3.73,
+    "generated_at": "2025-07-26T19:12:15.050341Z"
+  },
+  "extracted_sections": [
+    {
+      "id": "66451ba3",
+      "document": "test_adobe_sample",
+      "page": 1,
+      "text": "This section introduces the document content.",
+      "relevance_score": 0.406
+    },
+    {
+      "id": "89eb8e4b",
+      "document": "test_adobe_sample",
+      "page": 1,
+      "text": "This section introduces the document content.",
+      "relevance_score": 0.406
+    },
+    {
+      "id": "4d1856c3",
+      "document": "test_adobe_sample",
+      "page": 1,
+      "text": "This section introduces the document content.",
+      "relevance_score": 0.406
+    },
+    {
+      "id": "5988af64",
+      "document": "66e9997f56efb_Providence_LEAP_Ideathon_Case_Study_Brief",
+      "page": 2,
+      "text": "Stage 1: Analysis and Solutions summary (2 slide summary)",
+      "relevance_score": 0.3728
+    },
+    {
+      "id": "7c7743df",
+      "document": "66e9997f56efb_Providence_LEAP_Ideathon_Case_Study_Brief",
+      "page": 2,
+      "text": "Solutions Detailing:",
+      "relevance_score": 0.3602
+    },
+    {
+      "id": "ce9e3f10",
+      "document": "AeroClaim",
+      "page": 1,
+      "text": "contextual claim data.",
+      "relevance_score": 0.315
+    },
+    {
+      "id": "0c1ba450",
+      "document": "AeroClaim",
+      "page": 1,
+      "text": "and survival analysis for accurate and interpretable results.",
+      "relevance_score": 0.3048
+    },
+    {
+      "id": "ac9dccfb",
+      "document": "66e9997f56efb_Providence_LEAP_Ideathon_Case_Study_Brief",
+      "page": 1,
+      "text": "Additional Reading Material:",
+      "relevance_score": 0.3031
+    },
+    {
+      "id": "54c95197",
+      "document": "66e9997f56efb_Providence_LEAP_Ideathon_Case_Study_Brief",
+      "page": 2,
+      "text": "and outline how your team would address these issues.",
+      "relevance_score": 0.2883
+    },
+    {
+      "id": "eaf56144",
+      "document": "66e9997f56efb_Providence_LEAP_Ideathon_Case_Study_Brief",
+      "page": 1,
+      "text": "This event is designed to bring together students from various disciplines, including engineering and business,",
+      "relevance_score": 0.2874
+    },
+    {
+      "id": "8abccfad",
+      "document": "66e9997f56efb_Providence_LEAP_Ideathon_Case_Study_Brief",
+      "page": 2,
+      "text": "Stage 2: Solutions Development (10 slide detailed solutions + 2 min",
+      "relevance_score": 0.2744
+    },
+    {
+      "id": "b6d1c796",
+      "document": "test_adobe_sample",
+      "page": 1,
+      "text": "Test Document for Adobe Hackathon",
+      "relevance_score": 0.2696
+    },
+    {
+      "id": "0b78def3",
+      "document": "DE PROJECT",
+      "page": 1,
+      "text": "results such as hours, minutes, and seconds using 7 segment displays.",
+      "relevance_score": 0.2595
+    },
+    {
+      "id": "2e14e536",
+      "document": "AeroClaim",
+      "page": 1,
+      "text": "The project predicts TSA claim frequency, severity, type, and resolution time",
+      "relevance_score": 0.256
+    },
+    {
+      "id": "d4013936",
+      "document": "66e9997f56efb_Providence_LEAP_Ideathon_Case_Study_Brief",
+      "page": 1,
+      "text": "As part of this team, your goal is to use technology and smart ideas to help fix these differences. You will create",
+      "relevance_score": 0.2535
+    }
+  ]
+}
