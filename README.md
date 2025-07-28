@@ -5,7 +5,6 @@
 * **Quick Start:**
 
   ```bash
-  cd round1b
   docker build -t doc-intel .
   docker run --rm \
     -e PERSONA="Your Persona" \
